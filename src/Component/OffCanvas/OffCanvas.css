@@ -1,0 +1,31 @@
+.btn-menu{
+    background-color: #fff !important;
+    border: 0ch !important;
+    color: black !important;
+}
+.offcanvas-title{
+    width: 100%;
+    text-align: center;
+}
+.offcanvas-title img{
+    width: 60%;
+}
+.link-cat{
+    padding: 10px;
+    /* box-shadow: 5px 5px 5px 5px; */
+    border-bottom: 0.5px solid rgba(100, 100, 100, 0.335);
+    display: flex;
+    justify-content: space-between;
+}
+.link-cat a{
+text-decoration: none;
+color: black;
+font-weight: 600;
+letter-spacing: 1px;
+transition: .4s
+}
+.link-cat a:hover{
+    font-weight: 700;
+    font-size: medium;
+    color: #444;
+}

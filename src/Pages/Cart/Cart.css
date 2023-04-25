@@ -1,0 +1,10 @@
+.cart .header-cart , .Checkout-header{
+font-size: 100px;
+text-align: center;
+margin: 30px;
+color: gray;
+}
+.cart-empty{
+    font-size: xx-large;
+    text-align: center;
+}

@@ -1,0 +1,36 @@
+.oneCard{
+    border: 1px solid #444;
+    margin-bottom: 30px;
+    position: relative;
+}
+.oneCard h2{
+    color: rgb(0, 45, 143);
+}
+.oneCard p{
+    font-size: large;
+    font-weight: 600;
+}
+.oneCard img{
+    width: 100px;
+    border-radius: 5px;
+}
+.oneCard div{
+    text-align: center;
+}
+.oneCard input{
+    width: 40px;
+}
+.oneCard .btn-del{
+    position: absolute;
+    top: 1px;
+    left: 1%;
+    font-weight: 500;
+    padding: 1px 5px;
+    font-size: large;
+    cursor: pointer;
+    background-color: rgba(68, 68, 68, 0.095);
+    transition: .2s;
+}
+.oneCard .btn-del:hover{
+    font-size: x-large;
+}

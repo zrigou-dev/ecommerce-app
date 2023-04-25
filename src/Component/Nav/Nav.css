@@ -1,0 +1,28 @@
+.Nav{
+    box-shadow: 0px 0px 5px ;
+}
+.NavBar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 89px;
+}
+.NavBar img{
+    width: 200px;
+}
+.icon-menu , .icon-cart{
+    font-size: 35px;
+    cursor: pointer;
+}
+.link-cart-icon{
+    position: relative;
+}
+.link-cart-icon span{
+    position: absolute;
+    top: -10px;
+    left: -15px;
+    background-color: red;
+    color: #FFF;
+    border-radius: 50%;
+    padding: 1px 5px;
+}

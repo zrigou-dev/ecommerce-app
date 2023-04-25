@@ -1,0 +1,68 @@
+.PageProd{
+    margin-top: 30px;
+    letter-spacing: 1px;
+}
+.PageProd img{
+    width: 100%;
+}
+.info-product h2{
+    color: black;
+    font-weight: bold;
+}
+.prix-pr{
+    margin-left: 20px;
+    font-size: x-large;
+    font-weight: 600;
+    color: rgb(0, 0, 188);
+}
+.prix-pr span{
+    color: rgb(102, 102, 102);
+    text-decoration: line-through;
+}
+.prix-rating .rating{
+    font-size: 30px;
+    font-weight: 500;
+}
+.prix-rating .star{
+    font-size: 30px;
+}
+.stock{
+    text-align: center;
+    font-size: larger;
+    font-weight: 500;
+}
+.discription span{
+    font-size: x-large;
+    font-weight: bold;
+}
+.discription{
+    font-size: x-large;
+}
+.info-product button{
+    margin-top: 30px;
+    width: 90%;
+    background-color: rgb(35, 35, 35);
+    color: #fff ;
+    font-weight: bold;
+    padding: 10px 20px ;
+    border: 1px solid rgb(35, 35, 35) ;
+    border-radius: 5px;
+    transition: .5s;
+}
+.info-product button:hover{
+    background-color: #fff;
+    color: rgb(35, 35, 35);
+}
+.bordImg{
+    width: 100% !important;
+    border-top: 1px solod rgb(35, 35, 35) !important;
+}
+.PageProdImg{
+    width: 300px;
+    text-align: center;
+    margin: auto;
+    margin-top: 150px;
+}
+.bordImg img{
+    width: 100%;
+}

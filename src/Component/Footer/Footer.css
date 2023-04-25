@@ -1,0 +1,32 @@
+.footer{
+    background-color: rgb(35, 35, 35);
+    padding: 50px;
+    margin-top: 190px;
+}
+.img-footer{
+    width: 100%;
+}
+.img-footer  img{
+    width: 100%;
+    margin-bottom: 30px;
+}
+.head-list-footer{
+    font-weight: 700;
+    color: #fff;
+    font-size: larger;
+    text-align: center;
+}
+.footer ul li{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.footer ul li a{
+    text-decoration: none;
+    color: #fff;
+    font-size: large;
+    text-align: center;
+}
+.flex-footer{
+    display: flex;
+    align-items: center;
+}
